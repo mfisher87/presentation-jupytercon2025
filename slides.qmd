@@ -90,9 +90,15 @@ I also love dogs, gardening, and playing music on drums and keyboards :grin:
 :::::::::columns
 ::::::{.column width=75%}
 * What is GeoJupyter?
-* Why GeoJupyter?
+<br />
+<br />
+* Why is GeoJupyter?
+<br />
+<br />
 * What is JupyterGIS? :sparkles: Demo! :sparkles:
-* How you can join the community
+<br />
+<br />
+* How you can join the GeoJupyter community
 ::::::
 
 ::::::{.column width=25%}
