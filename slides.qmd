@@ -161,17 +161,24 @@ Finally, we'll talk about how you can join the community.
 First and foremost, **GeoJupyter** is a community and a team effort with many players.
 
 **JupyterGIS** is our flagship project, led by QuantStack;
-a GIS platform in JupyterLab that can be used in similar ways to QGIS plus more.
+JupyterGIS is a GIS platform in JupyterLab that can be used in similar ways to
+QGIS, the leading open source GIS software, plus some cool new stuff.
+
 We'll talk more about JupyterGIS shortly.
 
-But our work is far from limited to JupyterGIS; not everything we build is
-going to be a huge project or GIS-first.
+But our work is not limited to JupyterGIS.
+Not everything we build is going to be a huge project or GIS-first.
 It depends on what our community (that's you!) tells us they need.
 :::
 
 ---
 
 ![A photo of participants of a recent GeoJupyter Hackathon](/assets/images/hackathon-group-photo.jpg)
+
+:::notes
+This is a slice of our community who participated in a Hackathon and design
+dialog event a couple months ago.
+:::
 
 
 ## :question: What is GeoJupyter?
