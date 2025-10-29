@@ -59,9 +59,10 @@ def why_geojupyter(active: int | None = None) -> str:
 :snowflake: Previously at National Snow & Ice Data Center (NSIDC)
 
 :open_hands: Open source maintainer:
+[jupytergis](https://github.com/geojupyter/jupytergis),
 [earthaccess](https://github.com/nsidc/earthaccess),
-[viscm](https://github.com/matplotlib/viscm),
-several [conda-forge](https://conda-forge.org/) feedstocks
+several [conda-forge](https://conda-forge.org/) feedstocks,
+more
 
 :dog: :seedling: :notes: :musical_keyboard: :drum:
 :::
