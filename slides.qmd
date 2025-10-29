@@ -145,38 +145,6 @@ Finally, we'll talk about how you can join the community.
 :::
 
 
-## :heart: Thank you
-
-{{< include logos.md >}}
-
-:::notes
-First, I'd like the thank everyone involved in this community effort.
-**So many** people and organizations are working together to make cool stuff happen!
-
-<!-- alex ignore special -->
-Special thanks to QuantStack for leading the development of JupyterGIS.
-
-And to Fernando Pérez and the Schmidt Center for Data Science & Environment for
-supporting me to work on this -- I'm having lots of fun :grin:
-:::
-
----
-
-![[_You don't need to contribute more to open source, you need to go to therapy_](https://youtu.be/kUrfsKlyZOk?si=L7Z0x9azuMvccseD&t=1541)](/assets/images/role-model.jpg){width=50%}
-
-
-:::notes
-One last big thank you to the amazing role models and mentors in these
-communities who have inspired me to be a better community manager and
-developer.
-
-On that note, I want to give a quick plug for Yuvi Panda's lightning talk at SciPy this year:
-_You don't need to contribute more to open source, you need to go to therapy_.
-
-Click the link on this slide to watch!
-:::
-
-
 # :question: What is GeoJupyter?
 
 
@@ -701,7 +669,39 @@ If you have any questions, you can always reach out to me on Zulip, GitHub, or e
 :::
 
 
-# :heart: Thank you! :heart:
+## :heart: Thank you
+
+{{< include logos.md >}}
+
+:::notes
+First, I'd like the thank everyone involved in this community effort.
+**So many** people and organizations are working together to make cool stuff happen!
+
+<!-- alex ignore special -->
+Special thanks to QuantStack for leading the development of JupyterGIS.
+
+And to Fernando Pérez and the Schmidt Center for Data Science & Environment for
+supporting me to work on this -- I'm having lots of fun :grin:
+:::
+
+---
+
+![[_You don't need to contribute more to open source, you need to go to therapy_](https://youtu.be/kUrfsKlyZOk?si=L7Z0x9azuMvccseD&t=1541)](/assets/images/role-model.jpg){width=50%}
+
+
+:::notes
+One last big thank you to the amazing role models and mentors in these
+communities who have inspired me to be a better community manager and
+developer.
+
+On that note, I want to give a quick plug for Yuvi Panda's lightning talk at SciPy this year:
+_You don't need to contribute more to open source, you need to go to therapy_.
+
+Click the link on this slide to watch!
+:::
+
+
+# :heart: Thank **you** for listening! :heart:
 
 :::notes
 Thanks for your time and attention, and I hope to see you around :smile:
