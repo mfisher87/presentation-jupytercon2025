@@ -10,6 +10,6 @@ preview = "quarto preview"
 render = "quarto render"
 
 [dependencies]
-quarto = ">=1.7.32,<2"
+quarto = ">=1.8.25,<2"
 jupyter = ">=1.1.1,<2"
 python = ">=3.13.5,<3.14"

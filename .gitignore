@@ -7,4 +7,4 @@
 /_site/
 /site_libs/
 *.html
-*.quarto_ipynb
+**/*.quarto_ipynb
