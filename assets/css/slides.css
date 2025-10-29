@@ -1,0 +1,31 @@
+/* css styles */
+.caption {
+  margin: auto;
+  text-align: center;
+}
+
+.elevator-pitch {
+  /* font-style: italic; */
+  text-align: center;
+}
+
+.elevator-pitch hr {
+  width: 50%;
+  margin: auto;
+}
+
+.jupyter-orange {
+  color: #F37636;
+  font-weight: bold;
+}
+
+.fade {
+  color: lightgrey;
+}
+
+.evenly-spaced {
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}

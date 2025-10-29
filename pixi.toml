@@ -1,0 +1,15 @@
+[project]
+authors = ["Matt Fisher <mfisher87@gmail.com>"]
+channels = ["conda-forge"]
+name = "presentation-jupytercon2025"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+preview = "quarto preview"
+render = "quarto render"
+
+[dependencies]
+quarto = ">=1.7.32,<2"
+jupyter = ">=1.1.1,<2"
+python = ">=3.13.5,<3.14"

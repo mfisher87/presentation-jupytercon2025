@@ -1,0 +1,10 @@
+# pixi environments
+.pixi
+*.egg-info
+
+# Quarto ephemera
+/.quarto/
+/_site/
+/site_libs/
+*.html
+*.quarto_ipynb
