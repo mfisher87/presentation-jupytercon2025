@@ -54,15 +54,15 @@ def why_geojupyter(active: int | None = None) -> str:
 
 :people_holding_hands: Community Engagement Manager
 
-:seedling: Working at Schmidt DSE @ UC Berkeley
-
-:snowflake: Previously at National Snow & Ice Data Center (NSIDC)
-
 :open_hands: Open source maintainer:
 [jupytergis](https://github.com/geojupyter/jupytergis),
 [earthaccess](https://github.com/nsidc/earthaccess),
 several [conda-forge](https://conda-forge.org/) feedstocks,
 more
+
+:seedling: Working at Schmidt DSE @ UC Berkeley
+
+:snowflake: Previously at National Snow & Ice Data Center (NSIDC)
 
 :dog: :seedling: :notes: :musical_keyboard: :drum:
 :::
