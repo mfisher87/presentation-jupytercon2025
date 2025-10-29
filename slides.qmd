@@ -155,7 +155,7 @@ Finally, we'll talk about how you can join the community.
 
 ## :people_holding_hands: It's a communtity!
 
-![GeoJupyter is **not** software; it's a **community** which will build many things!](/assets/images/venn-diagram.svg)
+![GeoJupyter is **not** software; it's a **community** which will build many things together!](/assets/images/venn-diagram.svg)
 
 :::notes
 First and foremost, **GeoJupyter** is a community and a team effort with many players.
