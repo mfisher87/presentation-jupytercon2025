@@ -99,17 +99,22 @@ more
 
 :::notes
 I'm Matt Fisher, and I'm a Research Software Engineer and Community Engagement
-Manager for GeoJupyter.
+Manager.
 
-Before GeoJupyter, I worked in building software for research support and data
+I'm also a maintainer of several open source projects, and maybe we've interacted
+on GitHub before!
+I'll talk more about _JupyterGIS_ soon, but I also want to mention
+_earthaccess_, one of my favorite community-owned projects I help maintain.
+NASA data is behind a complicated API and authentication system, and
+_earthaccess_ navigates those systems for you and helps you access the data in
+3 lines of code.
+
+I'm currently leading the GeoJupyter project at Schmidt Center for Data Science
+and Environment at UC Berkeley.
+
+Before that, I worked in building software for research support and data
 analysis, visualization, management, and access at the National Snow and Ice Data
 Center.
-
-I'm a maintainer of several open source projects, and maybe we've spoken on GitHub before!
-_earthaccess_ is one of my favorite community-owned projects I help maintain.
-It enables access to NASA data in 3 lines of code, which is a huge improvement:
-before _earthaccess_ you had to write >100 lines to authenticate and
-interact with the NASA earth science data API.
 
 I also love dogs, gardening, and playing music on drums and keyboards :grin:
 :::
