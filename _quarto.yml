@@ -2,7 +2,7 @@ project:
   type: "website"
 
 website:
-  title: "JupyterCon 2025 - GeoJupyter"
+  title: "GeoJupyter @ JupyterCon 2025"
   site-url: "https://mfisher87.github.io/presentation-jupytercon2025"
 
   repo-url: &repo-url "https://github.com/mfisher87/presentation-jupytercon2025"
