@@ -46,6 +46,36 @@ def why_geojupyter(active: int | None = None) -> str:
 """)
 ```
 
+---
+
+:::{.center-content}
+![](/assets/images/just-use-blank.jpg){.r-stretch}
+:::
+
+:::notes
+Let's talk about how hard it can be for data practitioners, whether that's
+researchers, data scientists, or data artists, to adapt to working with their
+data in a programming paradigm.
+
+I think it's widely accepted that this is becoming a more and more necessary part of the job.
+:::
+
+
+---
+
+:::{.center-content}
+![](/assets/images/37-geospatial-python-packages-you-definitely-need.png){.r-stretch}
+:::
+
+:::notes
+This is the first web result I get when I do this search on Google.
+
+Imagine being told you _definitely_ need to learn 37 new tools to adapt to a
+new way to do your job.
+
+And as a software engineer, I see myself in these images, and I want to be better for my friends.
+:::
+
 
 ## :wave: Hi, I'm Matt!
 
@@ -701,3 +731,14 @@ _Advance to next slide_
   * :sparkles: [JupyterGIS available to install right now](https://jupytergis.readthedocs.io/en/latest/user_guide/install.html)!
   * :shrug: It depends! We're listening to users to identify priorities.
   * STAC browser expected this year.
+
+
+# :clown_face: Memes that were too mid
+
+---
+
+![](/assets/images/just-want-a-map.jpg)
+
+---
+
+![](/assets/images/why-cant-i-remember-all-these-geospatial-viz-apis.jpeg)
