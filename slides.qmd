@@ -784,6 +784,21 @@ _Advance to next slide_
 :::
 
 
+# :clown_face: Memes that were too mid
+
+---
+
+![](/assets/images/just-want-a-map.jpg)
+
+---
+
+![](/assets/images/why-cant-i-remember-all-these-geospatial-viz-apis.jpeg)
+
+---
+
+![](assets/images/gis-google-maps.jpeg)
+
+
 # :tada: Bonus slides
 
 ---
@@ -805,14 +820,3 @@ _Advance to next slide_
   * :sparkles: [JupyterGIS available to install right now](https://jupytergis.readthedocs.io/en/latest/user_guide/install.html)!
   * :shrug: It depends! We're listening to users to identify priorities.
   * STAC browser expected this year.
-
-
-# :clown_face: Memes that were too mid
-
----
-
-![](/assets/images/just-want-a-map.jpg)
-
----
-
-![](/assets/images/why-cant-i-remember-all-these-geospatial-viz-apis.jpeg)
