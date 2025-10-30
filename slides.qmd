@@ -64,7 +64,7 @@ I think it's widely accepted that this is becoming a more and more necessary par
 ---
 
 :::{.center-content}
-![[xkcd.com/2577/](https://xkcd.com/2577/)](https://imgs.xkcd.com/comics/sea_chase.png)
+![[xkcd.com/2577/](https://xkcd.com/2577/)](https://imgs.xkcd.com/comics/sea_chase.png){.r-stretch}
 :::
 
 :::notes
