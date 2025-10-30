@@ -307,9 +307,7 @@ why_geojupyter()
 ```
 
 :::notes
-Why are we doing this?
-
-Because working with data about our planet is hard.
+We are building this community because working with data about our planet is hard.
 
 What we're bringing to the table is a holistic, human-centered, and
 participatory approach to evaluating and improving this landscape.
