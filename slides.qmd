@@ -315,11 +315,12 @@ participatory approach to evaluating and improving this landscape.
 So far we've conducted dozens of hours of user interviews to understand what folks need
 most, and we'll continue to use the input of real people to guide our priorities.
 
-The following are only a few examples of challenges we've heard from those
+Let's talk about a few examples of challenges we've heard from those
 practitioners.
 
-Many of these challenges have existing solutions, but they often involve
-cobbling together multiple tools, introducing workflow friction.
+Many of these challenges have existing solutions, but they often involve either
+proprietary software or cobbling together multiple tools, introducing workflow
+friction.
 :::
 
 
