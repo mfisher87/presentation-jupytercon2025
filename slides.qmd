@@ -246,14 +246,15 @@ And the Jupyter ecosystem offers **collaboration** and **storytelling**.
 
 ---
 
-![You got your chocolate in my peanut butter!](/assets/images/chocolate-peanut-butter.jpg)
+![You got your desktop GIS experience in my coding environment!](/assets/images/chocolate-peanut-butter.jpg)
 
 :::notes
-These values have historically been separate, but we believe they belong
-together!
+These values have historically been prioritized in separate tools and
+techniques, but we believe they belong together!
 
 But it's not going to happen by accident :smile:
-We've got work to do!
+It's going to happen because software engineers empathized and worked with
+geospatial data practitioners.
 :::
 
 
