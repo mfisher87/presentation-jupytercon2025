@@ -220,7 +220,7 @@ We want to hear from you, and I'll share how soon.
 ## Our values
 
 :::evenly-spaced
-:open_hands: **Open source & open science**
+:open_hands: **Open source** and **open science**
 
 :cartwheeling: **Approachability** and **playfulness**, like desktop GIS tools
 
