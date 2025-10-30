@@ -116,7 +116,7 @@ visualization tools" on Google.
 Imagine being told you _definitely_ need to learn 37 new tools to adapt to a
 new way to do your job.
 
-And as a software engineer, I see myself in these images, and I want to be better for my friends.
+And as a software engineer, I see myself in this image, and I want to be better for my friends.
 :::
 
 
