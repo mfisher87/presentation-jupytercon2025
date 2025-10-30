@@ -58,6 +58,7 @@ researchers, data scientists, or data artists, to adapt to working with their
 data in a programming paradigm.
 
 I think it's widely accepted that this is becoming a more and more necessary part of the job.
+But it's still very hard.
 :::
 
 
