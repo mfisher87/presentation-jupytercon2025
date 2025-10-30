@@ -64,11 +64,50 @@ I think it's widely accepted that this is becoming a more and more necessary par
 ---
 
 :::{.center-content}
+![[xkcd.com/2577/](https://xkcd.com/2577/)](https://imgs.xkcd.com/comics/sea_chase.png)
+:::
+
+:::notes
+To quickly help you get to know what geospatial professionals are like...
+
+This is the kind of thing that we think is funny.
+:::
+
+
+---
+
+:::{.center-content}
+![](/assets/images/gis-professional-costume.jpg){.r-stretch}
+
+:::notes
+Here's what we look like.
+:::
+
+
+---
+
+:::{.center-content}
+![Error 99999: Something unexpected caused the tool to fail](/assets/images/error99999-keep-your-secrets.webp){.r-stretch}
+:::
+
+:::notes
+And these are the kinds of problems geospatial data professionals using proprietary software enjoy.
+
+It's really hard to read, but it says "Error 99999: Something unexpected caused the tool to fail. Contact technical support".
+The message also helpfully suggests referring to the error help, as if that meaningless error is searchable.
+:::
+
+---
+
+:::{.center-content}
 ![](/assets/images/37-geospatial-python-packages-you-definitely-need.png){.r-stretch}
 :::
 
 :::notes
-This is the first web result I get when I search for "Python geospatial
+So all the open source folks in the audience are probably thinking "we can do better".
+And we can, and we have, with amazing projects like QGIS and Pangeo.
+
+But also... this is the first web result I get when I search for "Python geospatial
 visualization tools" on Google.
 
 Imagine being told you _definitely_ need to learn 37 new tools to adapt to a
