@@ -68,7 +68,8 @@ I think it's widely accepted that this is becoming a more and more necessary par
 :::
 
 :::notes
-This is the first web result I get when I do this search on Google.
+This is the first web result I get when I search for "Python geospatial
+visualization tools" on Google.
 
 Imagine being told you _definitely_ need to learn 37 new tools to adapt to a
 new way to do your job.
