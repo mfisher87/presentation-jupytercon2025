@@ -25,7 +25,7 @@ def why_geojupyter(active: int | None = None) -> str:
   """Display the repeated "Why GeoJupyter" slide content."""
   items = [
     "Even experts often struggle",
-    "Linked visualizations are difficult to build",
+    "Rich storytelling is only for the privileged",
     "Friction when visualizing from a programming environment",
   ]
   lst = []
@@ -342,21 +342,28 @@ different ways, and have those visualizations interactively linked.
 :::
 
 
-## Linked visualizations
+## Rich storytelling for everyone {background-video="/assets/images/scrollytelling.mp4" background-video-loop="true" .video-bg}
 
-![](/assets/images/jgis-linked-viz.jpg)
+[_A Spark on Burned Mountain_](https://projects.sfchronicle.com/2019/kincade-fire-origin/), SF Chronicle
+
+Matthias Gafni & Kazi Awal
 
 :::notes
-For example, you might want to visualize soil samples on the map, but also
-scatter plot those soil samples to find relationships between those samples'
-attributes.
+"Scrollytelling" is the cute name that I love for those beautiful and rich
+storytelling experiences you've likely seen from large media organizations like
+the New York Times.
 
-You may find spatial correlations you wouldn't have otherwise noticed by
-interacting with variable correlations, and following those correlations back
-to a map.
+These are done by expert programmers and visualization specialists.
+For example, Mike Bostock, the creator of the D3 JavaScript data
+visualization library, was behind many of the New York Times scrollytelling
+experiences.
 
-There's a package called "glue" that can do this, and it'd be really cool to
-integrate that functionality with a GIS-first interface.
+There's also the option of subscribing to proprietary services with
+story-building tools.
+
+Why not open source?
+Imagine writing a MyST Markdown document that becomes a rich scrollytelling
+experience like this.
 :::
 
 
@@ -471,6 +478,7 @@ _And much, much more!!_
 
 * Friction reproducing GUI spatial processing
 * Analyzing and visualizing features of vertical landscapes
+* Linked visualizations are difficult to build
 :::
 
 . . .
