@@ -378,8 +378,8 @@ why_geojupyter(1)
 ```
 
 :::notes
-Another pain point we hear is that folks want to visualize the same data in
-different ways, and have those visualizations interactively linked.
+Many geospatial professionals feel locked in to certain tools when they want to
+tell a rich story with spatial data.
 :::
 
 
