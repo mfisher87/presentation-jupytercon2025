@@ -660,6 +660,19 @@ _Collaborative demo:_
 {{< video /assets/video/jgis-demo.mp4 >}}
 
 
+---
+
+:::{.center-content}
+![](/assets/images/joining-the-geojupyter-community.jpg){.r-stretch}
+:::
+
+
+:::notes
+We want to work with you to make the ecosystem better, whether you're a
+practitioner, developer, educator, communicator, or artist.
+:::
+
+
 ## How you can join
 
 {{< include how-you-can-join.md >}}
