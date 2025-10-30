@@ -355,8 +355,8 @@ We **all** struggle sometimes.
 
 :::notes
 <!-- alex ignore her-him he-she fires -->
-Brianna, who you may have heard speak yesterday, lost her home in the recent
-fires in California.
+Brianna, a former Deputy Manager at a NASA Data Center, lost her home in the
+recent fires in LA.
 When she learned her home was at risk, her first thought, like a true scientist
 and geospatial nerd, was to look at the data.
 Recounting these events, she wrote:
