@@ -484,9 +484,12 @@ seamless, joyful, and rewarding.
 (Imports don't count :smirk:)
 
 ```python
-from jupytergis import explore
+from ... import explore
 
-explore(my_geodataframe)
+explore(
+  my_xarray_dataarray,
+  {my_geodataframe, symbology="choropleth"},
+)
 ```
 
 :eyes: Validate, inspect, explore
@@ -500,11 +503,13 @@ explore(my_geodataframe)
 ::::::
 
 :::notes
-So we developed an interface for this in JupyterGIS, a function called `explore()`.
-It's still rough around the edges, but it's available now! :tada:
+What about a nice interface that can display your many geospatial data sources
+as layers in a Jupyter widget with some sensible symbology by default?
 
-It enables the user to pass geospatial data directly to a visualization
-environment running alongside their notebook with **one line of code**.
+In this example, we pass in some gridded data with no settings, and some
+polygon data with a request to display it as a chorolpleth map.
+
+We built something like this in JupyterGIS, and we're continuing to evolve the idea.
 :::
 
 
