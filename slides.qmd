@@ -552,7 +552,7 @@ This is why we are building a community.
 
 
 :::notes
-Let's talk about some of out work in progress now!
+Let's talk about some of our work in progress now!
 
 JupyterGIS is the _GeoJupyter_ flagship project, with development led by the amazing folks at QuantStack.
 :::
