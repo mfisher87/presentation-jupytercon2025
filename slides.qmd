@@ -79,6 +79,7 @@ This is the kind of thing that we think is funny.
 
 :::{.center-content}
 ![](/assets/images/gis-professional-costume.jpg){.r-stretch}
+:::
 
 :::notes
 Here's what we look like.
