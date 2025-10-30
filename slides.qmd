@@ -78,7 +78,7 @@ This is the kind of thing that we think is funny.
 ---
 
 :::{.center-content}
-![](/assets/images/gis-professional-costume.jpg){.r-stretch}
+![](/assets/images/gis-professional-costume.webp){.r-stretch}
 :::
 
 :::notes
