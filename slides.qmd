@@ -54,8 +54,9 @@ def why_geojupyter(active: int | None = None) -> str:
 
 :::notes
 Let's talk about how hard it can be for data practitioners, whether that's
-researchers, data scientists, or data artists, to adapt to working with their
-data in a programming paradigm.
+researchers, data scientists, data artists, or data engineers, to adapt to
+working with their data in an programming paradigm using open source software
+instead of proprietary software.
 
 I think it's widely accepted that this is becoming a more and more necessary part of the job.
 But it's still very hard.
