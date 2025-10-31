@@ -51,7 +51,7 @@ def why_geojupyter(active: int | None = None) -> str:
 ---
 
 :::{.center-content}
-![](/assets/images/just-use-blank.jpg){.r-stretch}
+![](/assets/images/just-use-blank.jpg){.r-stretch width="1000px"}
 :::
 
 :::notes
@@ -68,7 +68,7 @@ But it's still very hard.
 ---
 
 :::{.center-content}
-![[xkcd.com/2577/](https://xkcd.com/2577/)](https://imgs.xkcd.com/comics/sea_chase.png){.r-stretch}
+![[xkcd.com/2577/](https://xkcd.com/2577/)](https://imgs.xkcd.com/comics/sea_chase.png){.r-stretch width="1200px"}
 :::
 
 :::notes
