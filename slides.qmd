@@ -85,7 +85,10 @@ This is the kind of thing that we think is funny.
 :::
 
 :::notes
-Here's what we look like.
+In the belated spirit of Halloween, here's the official geospatial professional costume.
+
+<!-- alex ignore crashes -->
+Note that tears for use in case of software crashes are not included, you must provide your own.
 :::
 
 
