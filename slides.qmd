@@ -637,7 +637,6 @@ _Read the slide_
 * JupyterLab- and browser-native (try it in a JupyterHub!)
 * Python API
 * Supports QGIS project files
-* WIP: STAC browser!
 * **_Real-time collaboration_**: like Google Docs, but on a map!
 :::
 
