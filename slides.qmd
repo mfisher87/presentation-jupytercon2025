@@ -236,12 +236,44 @@ dialog event a couple months ago.
 ## :question: What is GeoJupyter?
 
 <br />
+<br />
 
-<center>
-:handshake: An effort to **democratize geospatial data practice** :handshake:
-</center>
+🤝 An effort to **democratize geospatial data practice** 🤝
+
+:::notes
+My first take on how to phrase this was "an effort to democratize geospatial data practice".
+:::
+
+
+## :question: What is GeoJupyter?
 
 <br />
+<br />
+
+:::{.fade}
+<s>🤝 An effort to **democratize geospatial data practice** 🤝</s>
+:::
+
+:::notes
+But that's not right at all.
+:::
+. . .
+
+<center>
+![](/assets/images/logo-qgis.svg){height="100px" style="padding-right: 40px"}
+![](/assets/images/logo-grass.svg){height="100px"}
+![](/assets/images/logo-pangeo.svg){height="100px"}
+![](/assets/images/logo-osgeo.svg){height="100px"}
+</center>
+
+:::notes
+People have been succeeding for decades at advancing the democratization of
+geospatial data practice with projects and communities like QGIS, GRASS GIS,
+Pangeo, and OSGeo.
+:::
+
+
+## :question: What is GeoJupyter?
 
 :::elevator-pitch
 <hr />
