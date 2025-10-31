@@ -714,7 +714,7 @@ _Collaborative demo:_
 ---
 
 :::{.center-content}
-![](/assets/images/joining-the-geojupyter-community.jpg){.r-stretch}
+![](/assets/images/joining-the-geojupyter-community.jpg){.r-stretch width="1000px"}
 :::
 
 
