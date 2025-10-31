@@ -142,9 +142,9 @@ And as a software engineer, I see myself in this image, and I want to be better 
 several [conda-forge](https://conda-forge.org/) feedstocks,
 more
 
-:seedling: Working at Schmidt DSE @ UC Berkeley
+:seedling: Working at [Schmidt DSE @ UC Berkeley](https://dse.berkeley.edu)
 
-:snowflake: Previously at National Snow & Ice Data Center (NSIDC)
+:snowflake: Previously at [National Snow & Ice Data Center (NSIDC)](https://nsidc.org)
 
 :dog: :seedling: :notes: :musical_keyboard: :drum:
 :::
