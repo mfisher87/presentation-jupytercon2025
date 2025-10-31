@@ -807,8 +807,10 @@ We're on the Jupyter Zulip, which is like an open-source Slack.
 You don't even need to register an account to view activity, but we would love
 it if you joined in :smile:
 
-JupyterGIS is available for install with `pip`, `conda`, or equivalents, and we're
-jazzed to hear what you think :smile:
+JupyterGIS is available for install with `pip`, `conda`, or equivalents.
+If you follow the link on this slide or visit the documentation, you can find a link to try JupyterGIS with JupyterLite.
+JupyterLite is a fully-browser-native version of JupyterGIS, meaning there's no server and nothing needs to be installed!
+We're jazzed to hear what you think :smile:
 
 We're excited to expand our **funded** development team, so if your company is
 interested in sponsoring this work, please reach out.
