@@ -306,6 +306,8 @@ with geospatial data**?
 ## Our values
 
 :::evenly-spaced
+:artist: **Human-centered**, participatory design
+
 :open_hands: **Open source** and **open science**
 
 :cartwheeling: **Approachability** and **playfulness**, like desktop GIS tools
@@ -316,6 +318,10 @@ with geospatial data**?
 :::
 
 :::notes
+These are the values that we feel will help us succeed at our mission:
+
+We build and design in close partnership with users.
+
 We believe in open source and open science, so everything we do is free and
 open.
 
