@@ -5,6 +5,8 @@ subtitle: |
 authors:
   - name: "Matt Fisher @ Schmidt DSE, UC Berkeley"
     orcid: "0000-0003-3260-5445"
+  - name: "Fernando Pérez @ UC Berkeley"
+    orcid: "0000-0002-1725-9815"
 title-slide-attributes:
   data-notes: |
     Hello!
