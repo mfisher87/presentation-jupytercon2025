@@ -257,6 +257,7 @@ My first take on how to phrase this was "an effort to democratize geospatial dat
 :::notes
 But that's not right at all.
 :::
+
 . . .
 
 <center>
@@ -577,20 +578,20 @@ _And much, much more!!_
 * Linked visualizations are difficult to build
 :::
 
+:::notes
+The landscape of open source geospatial tools is far from perfect.
+:::
+
 . . .
 
 :::{style="font-size: 80%"}
 ...IDK, you tell us! :ear:
 :::
 
-
 :::notes
-The landscape of open source geospatial tools is far from perfect.
-
-...
-
+<!-- alex ignore just -->
 There's a lot that needs solving, and we are far from having all the answers!
-This is why we are building a community.
+This is why we are building a community, not just software.
 :::
 
 
