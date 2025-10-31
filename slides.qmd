@@ -278,25 +278,28 @@ Pangeo, and OSGeo.
 :::elevator-pitch
 <hr />
 
-GeoJupyter is an open and community-owned effort to [reimagine geospatial interactive
-computing experiences]{.jupyter-orange} to enable **more people to
-confidently engage with geospatial data**.
+GeoJupyter is an open and community-owned effort to [reimagine geospatial
+interactive computing experiences in Jupyter]{.jupyter-orange} to enable **more
+people to confidently engage with geospatial data**.
 
 <hr />
 :::
 
 :::notes
+We're not doing something new, we're joining a movement in progress and
+bringing the unique strengths of Jupyter to the problem.
+
+Our mission statement describes us as an open and community-owned...
+
 _Read the slide_
 
-Maybe the first thing that jumps out about this is how broad this mission is --
+Maybe the first thing that jumps out is how broad this mission is, and
 that's intentional.
 We don't have all the solutions to this problem, but we know we can find them
 by working with you.
 
 What does it look like to **you** to **enable more people to confidently engage
 with geospatial data**?
-
-We want to hear from you, and I'll share how soon.
 :::
 
 
