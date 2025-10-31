@@ -459,6 +459,22 @@ experience like this.
 :::
 
 
+## 📣 Andrew Bray & [Closeread](https://closeread.dev/)
+
+<!-- alex ignore whitespace -->
+:::{.center-content style="white-space: nowrap"}
+There is progress happening in this space!
+:::
+
+:::notes
+I want to give a shoutout to our Berkeley friend Andrew Bray who has been
+pushing this problem forward with "Closeread", a scrollytelling implementation for Quarto.
+
+We're excited to partner with Andrew to develop a MyST implementation with
+first-class support for geospatial scrollytelling.
+:::
+
+
 ## :shrug: Why GeoJupyter?
 
 ```{python}
