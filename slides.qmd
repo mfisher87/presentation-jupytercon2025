@@ -95,7 +95,7 @@ Note that tears for use in case of software crashes are not included, you must p
 ---
 
 :::{.center-content}
-![Error 99999: Something unexpected caused the tool to fail](/assets/images/error99999-keep-your-secrets.webp){.r-stretch}
+![Error 99999: Something unexpected caused the tool to fail](/assets/images/error99999-keep-your-secrets.webp){.r-stretch width="1100px"}
 :::
 
 :::notes
@@ -108,7 +108,7 @@ The message also helpfully suggests referring to the error help, as if that mean
 ---
 
 :::{.center-content}
-![](/assets/images/37-geospatial-python-packages-you-definitely-need.png){.r-stretch}
+![](/assets/images/37-geospatial-python-packages-you-definitely-need.png){.r-stretch width="1400px"}
 :::
 
 :::notes
