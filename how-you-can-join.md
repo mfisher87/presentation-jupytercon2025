@@ -1,3 +1,5 @@
+:runner: Community sprint on Thursday!
+
 :studio_microphone: [Sign up for an interview](https://geojupyter.org/interviews/sign-up)!
 
 :calendar: [Join a hackathon or community meeting](https://geojupyter.org/calendar)!
