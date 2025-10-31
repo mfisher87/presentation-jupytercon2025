@@ -488,7 +488,7 @@ seamless, joyful, and rewarding.
 :::{.column width=65%}
 :abacus: Do some analysis
 
-:snake: "Bounce" to JGIS: one line of code!
+:snake: "Bounce" to graphical GIS: 1 LOC!
 
 (Imports don't count :smirk:)
 
