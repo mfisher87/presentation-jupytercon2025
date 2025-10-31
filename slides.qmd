@@ -196,9 +196,15 @@ I also love dogs, gardening, and playing music on drums and keyboards :grin:
 :::::::::
 
 :::notes
-In this talk, I'm going to introduce the GeoJupyter community and discuss why it exists.
+
+In this talk, there will be plenty of links, so scan the QR code now if you
+want!
+
+I'm going to introduce the GeoJupyter community and discuss why it exists.
 I'll then introduce and demo the JupyterGIS software.
 Finally, we'll talk about how you can join the community.
+
+_Check if anyone is scanning the QR code, and wait for them._
 :::
 
 
