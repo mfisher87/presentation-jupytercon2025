@@ -789,6 +789,8 @@ _Collaborative demo:_
 :::notes
 We want to work with you to make the ecosystem better, whether you're a
 practitioner, developer, educator, communicator, or artist.
+
+If you're wondering, "how can I be part of this awesome community", here are a few ways.
 :::
 
 
@@ -797,8 +799,6 @@ practitioner, developer, educator, communicator, or artist.
 {{< include how-you-can-join.md >}}
 
 :::notes
-I'm sure you're wondering "how can I be a part of this rad community?"
-
 In the short-term, we're going to be participating in the community sprints on
 Thursday and I'd love to see you there!
 
