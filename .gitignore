@@ -8,3 +8,8 @@
 /site_libs/
 *.html
 **/*.quarto_ipynb
+
+# Jupyter ephemera
+.jupyter_ystore.db
+.ipynb_checkpoints/
+.Trash-*/

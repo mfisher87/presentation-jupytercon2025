@@ -1,0 +1,10 @@
+services:
+  geojupyter:
+    image: "ghcr.io/mfisher87/geojupyter-pixi:52139f343171"
+    command: pixi run jupyter lab --no-browser --ip=0.0.0.0 --ServerApp.token="jupytercon2025"
+    volumes:
+      - "${CONTENT_DIR}:${CONTENT_DIR}"
+    working_dir: "${CONTENT_DIR}"
+    ports:
+      - "8888:8888"
+    restart: "unless-stopped"

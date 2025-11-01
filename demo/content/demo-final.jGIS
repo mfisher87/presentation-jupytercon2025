@@ -1,0 +1,831 @@
+{
+  "layerTree": [
+    "4c9244f0-2e2d-41b7-b4ca-33124ba64c76",
+    "b7a529df-db45-4fc6-abd0-418676d18d78",
+    "a98b2613-223a-4d6f-a506-47acc13f06a0",
+    "0bdedcff-5a4e-4788-bfd6-8493d70d5892",
+    "32f836c2-533a-4bf3-b874-dfb4a978bf9a",
+    "a9a9f69c-e3aa-4231-8cac-2d072ff5f715",
+    "d577253a-6722-4c51-b20b-39b5ef69a170"
+  ],
+  "layers": {
+    "0bdedcff-5a4e-4788-bfd6-8493d70d5892": {
+      "name": "Tsunami hazard area",
+      "parameters": {
+        "opacity": 1.0,
+        "source": "715a7697-29ce-4f9c-94b1-dff0cd0227d1"
+      },
+      "type": "VectorLayer",
+      "visible": true
+    },
+    "32f836c2-533a-4bf3-b874-dfb4a978bf9a": {
+      "name": "Parks",
+      "parameters": {
+        "color": {
+          "circle-fill-color": "#3399CC",
+          "circle-radius": 5.0,
+          "circle-stroke-color": "#a51d2d",
+          "circle-stroke-line-cap": "round",
+          "circle-stroke-line-join": "round",
+          "circle-stroke-width": 1.25,
+          "fill-color": "#3399CC",
+          "stroke-color": "#a51d2d",
+          "stroke-line-cap": "round",
+          "stroke-line-join": "round",
+          "stroke-width": 1.25
+        },
+        "opacity": 0.5,
+        "source": "889b3c59-d3a2-4aef-906c-29ccd587379e",
+        "symbologyState": {
+          "renderType": "Single Symbol"
+        }
+      },
+      "type": "VectorLayer",
+      "visible": true
+    },
+    "4c9244f0-2e2d-41b7-b4ca-33124ba64c76": {
+      "name": "OpenStreetMap.Mapnik Layer",
+      "parameters": {
+        "source": "e6a2c19b-a2e5-43ac-a746-24594d59ec80"
+      },
+      "type": "RasterLayer",
+      "visible": true
+    },
+    "a98b2613-223a-4d6f-a506-47acc13f06a0": {
+      "name": "NASAGIBS.ModisTerraChlorophyll Layer",
+      "parameters": {
+        "source": "2900cf22-f6a6-4487-b9a7-3082573a9b47"
+      },
+      "type": "RasterLayer",
+      "visible": true
+    },
+    "a9a9f69c-e3aa-4231-8cac-2d072ff5f715": {
+      "name": "Unexploded Ordnance",
+      "parameters": {
+        "color": {
+          "circle-fill-color": "#f6d32d",
+          "circle-radius": 5.0,
+          "circle-stroke-color": "#a51d2d",
+          "circle-stroke-line-cap": "round",
+          "circle-stroke-line-join": "round",
+          "circle-stroke-width": 1.25,
+          "fill-color": "#f6d32d",
+          "stroke-color": "#a51d2d",
+          "stroke-line-cap": "round",
+          "stroke-line-join": "round",
+          "stroke-width": 1.25
+        },
+        "opacity": 1.0,
+        "source": "2c9f6b8f-1884-4f80-9a14-b01a0884a517",
+        "symbologyState": {
+          "renderType": "Single Symbol"
+        }
+      },
+      "type": "VectorLayer",
+      "visible": true
+    },
+    "b7a529df-db45-4fc6-abd0-418676d18d78": {
+      "name": "Earthquakes",
+      "parameters": {
+        "color": {
+          "circle-fill-color": [
+            "interpolate",
+            [
+              "linear"
+            ],
+            [
+              "get",
+              "mag"
+            ],
+            1.2522222222222221,
+            [
+              68.0,
+              1.0,
+              84.0,
+              1.0
+            ],
+            1.5544444444444445,
+            [
+              71.0,
+              44.0,
+              122.0,
+              1.0
+            ],
+            1.8566666666666667,
+            [
+              59.0,
+              81.0,
+              139.0,
+              1.0
+            ],
+            2.158888888888889,
+            [
+              44.0,
+              113.0,
+              142.0,
+              1.0
+            ],
+            2.4611111111111112,
+            [
+              33.0,
+              144.0,
+              141.0,
+              1.0
+            ],
+            2.786666666666666,
+            [
+              39.0,
+              173.0,
+              129.0,
+              1.0
+            ],
+            3.166666666666667,
+            [
+              92.0,
+              200.0,
+              99.0,
+              1.0
+            ],
+            3.723333333333333,
+            [
+              170.0,
+              220.0,
+              50.0,
+              1.0
+            ],
+            8.1,
+            [
+              253.0,
+              231.0,
+              37.0,
+              1.0
+            ]
+          ],
+          "circle-radius": [
+            "interpolate",
+            [
+              "linear"
+            ],
+            [
+              "get",
+              "mag"
+            ],
+            1.2522222222222221,
+            1.2522222222222221,
+            1.5544444444444445,
+            1.5544444444444445,
+            1.8566666666666667,
+            1.8566666666666667,
+            2.158888888888889,
+            2.158888888888889,
+            2.4611111111111112,
+            2.4611111111111112,
+            2.786666666666666,
+            2.786666666666666,
+            3.166666666666667,
+            3.166666666666667,
+            3.723333333333333,
+            3.723333333333333,
+            8.1,
+            8.1
+          ],
+          "circle-stroke-color": [
+            "interpolate",
+            [
+              "linear"
+            ],
+            [
+              "get",
+              "mag"
+            ],
+            1.2522222222222221,
+            [
+              68.0,
+              1.0,
+              84.0,
+              1.0
+            ],
+            1.5544444444444445,
+            [
+              71.0,
+              44.0,
+              122.0,
+              1.0
+            ],
+            1.8566666666666667,
+            [
+              59.0,
+              81.0,
+              139.0,
+              1.0
+            ],
+            2.158888888888889,
+            [
+              44.0,
+              113.0,
+              142.0,
+              1.0
+            ],
+            2.4611111111111112,
+            [
+              33.0,
+              144.0,
+              141.0,
+              1.0
+            ],
+            2.786666666666666,
+            [
+              39.0,
+              173.0,
+              129.0,
+              1.0
+            ],
+            3.166666666666667,
+            [
+              92.0,
+              200.0,
+              99.0,
+              1.0
+            ],
+            3.723333333333333,
+            [
+              170.0,
+              220.0,
+              50.0,
+              1.0
+            ],
+            8.1,
+            [
+              253.0,
+              231.0,
+              37.0,
+              1.0
+            ]
+          ],
+          "circle-stroke-width": 1.25,
+          "fill-color": [
+            "interpolate",
+            [
+              "linear"
+            ],
+            [
+              "get",
+              "mag"
+            ],
+            1.2522222222222221,
+            [
+              68.0,
+              1.0,
+              84.0,
+              1.0
+            ],
+            1.5544444444444445,
+            [
+              71.0,
+              44.0,
+              122.0,
+              1.0
+            ],
+            1.8566666666666667,
+            [
+              59.0,
+              81.0,
+              139.0,
+              1.0
+            ],
+            2.158888888888889,
+            [
+              44.0,
+              113.0,
+              142.0,
+              1.0
+            ],
+            2.4611111111111112,
+            [
+              33.0,
+              144.0,
+              141.0,
+              1.0
+            ],
+            2.786666666666666,
+            [
+              39.0,
+              173.0,
+              129.0,
+              1.0
+            ],
+            3.166666666666667,
+            [
+              92.0,
+              200.0,
+              99.0,
+              1.0
+            ],
+            3.723333333333333,
+            [
+              170.0,
+              220.0,
+              50.0,
+              1.0
+            ],
+            8.1,
+            [
+              253.0,
+              231.0,
+              37.0,
+              1.0
+            ]
+          ],
+          "stroke-color": [
+            "interpolate",
+            [
+              "linear"
+            ],
+            [
+              "get",
+              "mag"
+            ],
+            1.2522222222222221,
+            [
+              68.0,
+              1.0,
+              84.0,
+              1.0
+            ],
+            1.5544444444444445,
+            [
+              71.0,
+              44.0,
+              122.0,
+              1.0
+            ],
+            1.8566666666666667,
+            [
+              59.0,
+              81.0,
+              139.0,
+              1.0
+            ],
+            2.158888888888889,
+            [
+              44.0,
+              113.0,
+              142.0,
+              1.0
+            ],
+            2.4611111111111112,
+            [
+              33.0,
+              144.0,
+              141.0,
+              1.0
+            ],
+            2.786666666666666,
+            [
+              39.0,
+              173.0,
+              129.0,
+              1.0
+            ],
+            3.166666666666667,
+            [
+              92.0,
+              200.0,
+              99.0,
+              1.0
+            ],
+            3.723333333333333,
+            [
+              170.0,
+              220.0,
+              50.0,
+              1.0
+            ],
+            8.1,
+            [
+              253.0,
+              231.0,
+              37.0,
+              1.0
+            ]
+          ],
+          "stroke-width": 1.25
+        },
+        "opacity": 1.0,
+        "source": "b4d28bce-815a-4f4a-90cf-832a743171a6",
+        "symbologyState": {
+          "colorRamp": "viridis",
+          "method": "color",
+          "mode": "quantile",
+          "nClasses": "9",
+          "renderType": "Graduated",
+          "reverse": false,
+          "value": "mag"
+        }
+      },
+      "type": "VectorLayer",
+      "visible": true
+    },
+    "d577253a-6722-4c51-b20b-39b5ef69a170": {
+      "name": "Trails & Open Space",
+      "parameters": {
+        "color": {
+          "circle-fill-color": [
+            "interpolate",
+            [
+              "linear"
+            ],
+            [
+              "get",
+              "feet"
+            ],
+            4714.765969866667,
+            [
+              68.0,
+              1.0,
+              84.0,
+              1.0
+            ],
+            9429.531939733333,
+            [
+              71.0,
+              44.0,
+              122.0,
+              1.0
+            ],
+            14144.2979096,
+            [
+              59.0,
+              81.0,
+              139.0,
+              1.0
+            ],
+            18859.063879466667,
+            [
+              44.0,
+              113.0,
+              142.0,
+              1.0
+            ],
+            23573.829849333335,
+            [
+              33.0,
+              144.0,
+              141.0,
+              1.0
+            ],
+            28288.595819200003,
+            [
+              39.0,
+              173.0,
+              129.0,
+              1.0
+            ],
+            33003.36178906667,
+            [
+              92.0,
+              200.0,
+              99.0,
+              1.0
+            ],
+            37718.12775893334,
+            [
+              170.0,
+              220.0,
+              50.0,
+              1.0
+            ],
+            42432.8937288,
+            [
+              253.0,
+              231.0,
+              37.0,
+              1.0
+            ]
+          ],
+          "circle-radius": 5.0,
+          "circle-stroke-color": [
+            "interpolate",
+            [
+              "linear"
+            ],
+            [
+              "get",
+              "feet"
+            ],
+            4714.765969866667,
+            [
+              68.0,
+              1.0,
+              84.0,
+              1.0
+            ],
+            9429.531939733333,
+            [
+              71.0,
+              44.0,
+              122.0,
+              1.0
+            ],
+            14144.2979096,
+            [
+              59.0,
+              81.0,
+              139.0,
+              1.0
+            ],
+            18859.063879466667,
+            [
+              44.0,
+              113.0,
+              142.0,
+              1.0
+            ],
+            23573.829849333335,
+            [
+              33.0,
+              144.0,
+              141.0,
+              1.0
+            ],
+            28288.595819200003,
+            [
+              39.0,
+              173.0,
+              129.0,
+              1.0
+            ],
+            33003.36178906667,
+            [
+              92.0,
+              200.0,
+              99.0,
+              1.0
+            ],
+            37718.12775893334,
+            [
+              170.0,
+              220.0,
+              50.0,
+              1.0
+            ],
+            42432.8937288,
+            [
+              253.0,
+              231.0,
+              37.0,
+              1.0
+            ]
+          ],
+          "circle-stroke-line-cap": "round",
+          "circle-stroke-line-join": "round",
+          "circle-stroke-width": 5.0,
+          "fill-color": [
+            "interpolate",
+            [
+              "linear"
+            ],
+            [
+              "get",
+              "feet"
+            ],
+            4714.765969866667,
+            [
+              68.0,
+              1.0,
+              84.0,
+              1.0
+            ],
+            9429.531939733333,
+            [
+              71.0,
+              44.0,
+              122.0,
+              1.0
+            ],
+            14144.2979096,
+            [
+              59.0,
+              81.0,
+              139.0,
+              1.0
+            ],
+            18859.063879466667,
+            [
+              44.0,
+              113.0,
+              142.0,
+              1.0
+            ],
+            23573.829849333335,
+            [
+              33.0,
+              144.0,
+              141.0,
+              1.0
+            ],
+            28288.595819200003,
+            [
+              39.0,
+              173.0,
+              129.0,
+              1.0
+            ],
+            33003.36178906667,
+            [
+              92.0,
+              200.0,
+              99.0,
+              1.0
+            ],
+            37718.12775893334,
+            [
+              170.0,
+              220.0,
+              50.0,
+              1.0
+            ],
+            42432.8937288,
+            [
+              253.0,
+              231.0,
+              37.0,
+              1.0
+            ]
+          ],
+          "stroke-color": [
+            "interpolate",
+            [
+              "linear"
+            ],
+            [
+              "get",
+              "feet"
+            ],
+            4714.765969866667,
+            [
+              68.0,
+              1.0,
+              84.0,
+              1.0
+            ],
+            9429.531939733333,
+            [
+              71.0,
+              44.0,
+              122.0,
+              1.0
+            ],
+            14144.2979096,
+            [
+              59.0,
+              81.0,
+              139.0,
+              1.0
+            ],
+            18859.063879466667,
+            [
+              44.0,
+              113.0,
+              142.0,
+              1.0
+            ],
+            23573.829849333335,
+            [
+              33.0,
+              144.0,
+              141.0,
+              1.0
+            ],
+            28288.595819200003,
+            [
+              39.0,
+              173.0,
+              129.0,
+              1.0
+            ],
+            33003.36178906667,
+            [
+              92.0,
+              200.0,
+              99.0,
+              1.0
+            ],
+            37718.12775893334,
+            [
+              170.0,
+              220.0,
+              50.0,
+              1.0
+            ],
+            42432.8937288,
+            [
+              253.0,
+              231.0,
+              37.0,
+              1.0
+            ]
+          ],
+          "stroke-line-cap": "round",
+          "stroke-line-join": "round",
+          "stroke-width": 5.0
+        },
+        "opacity": 1.0,
+        "source": "32f8d50f-f974-46f7-a5b6-3afff8883c32",
+        "symbologyState": {
+          "colorRamp": null,
+          "method": "color",
+          "mode": null,
+          "nClasses": null,
+          "renderType": "Graduated",
+          "reverse": false,
+          "value": "feet"
+        }
+      },
+      "type": "VectorLayer",
+      "visible": true
+    }
+  },
+  "metadata": {},
+  "options": {
+    "bearing": 0.0,
+    "extent": [
+      -13180112.336155307,
+      3806082.868315409,
+      -12891720.82143537,
+      3948063.0698644686
+    ],
+    "latitude": 32.86254256899774,
+    "longitude": -117.10363105238913,
+    "pitch": 0.0,
+    "projection": "EPSG:3857",
+    "zoom": 9.727709331870624
+  },
+  "schemaVersion": "0.5.0",
+  "sources": {
+    "2900cf22-f6a6-4487-b9a7-3082573a9b47": {
+      "name": "NASAGIBS.ModisTerraChlorophyll",
+      "parameters": {
+        "attribution": "Imagery provided by services from the Global Imagery Browse Services (GIBS), operated by the NASA/GSFC/Earth Science Data and Information System (ESDIS) with funding provided by NASA/HQ.",
+        "maxZoom": 7.0,
+        "minZoom": 1.0,
+        "provider": "NASAGIBS",
+        "url": "https://map1.vis.earthdata.nasa.gov/wmts-webmerc/{variant}/default/{time}/{tilematrixset}{max_zoom}/{z}/{y}/{x}.{format}",
+        "urlParameters": {
+          "format": "png",
+          "tilematrixset": "GoogleMapsCompatible_Level",
+          "time": "2025-02-26",
+          "variant": "MODIS_Terra_L2_Chlorophyll_A"
+        }
+      },
+      "type": "RasterSource"
+    },
+    "2c9f6b8f-1884-4f80-9a14-b01a0884a517": {
+      "name": "Unexploded Ordnance Source",
+      "parameters": {
+        "path": "Hazards_Unexploded_Ordnance_4326.geojson"
+      },
+      "type": "GeoJSONSource"
+    },
+    "32f8d50f-f974-46f7-a5b6-3afff8883c32": {
+      "name": "Trails & Open Space Source",
+      "parameters": {
+        "path": "Trails_Open_Space_SD_4326.geojson"
+      },
+      "type": "GeoJSONSource"
+    },
+    "715a7697-29ce-4f9c-94b1-dff0cd0227d1": {
+      "name": "Tsunami hazard area Source",
+      "parameters": {
+        "path": "Tsunami_Hazard_Area_4326.geojson"
+      },
+      "type": "GeoJSONSource"
+    },
+    "889b3c59-d3a2-4aef-906c-29ccd587379e": {
+      "name": "Custom GeoJSON Layer Source",
+      "parameters": {
+        "path": "Parks_SD_4326.geojson"
+      },
+      "type": "GeoJSONSource"
+    },
+    "b4d28bce-815a-4f4a-90cf-832a743171a6": {
+      "name": "Earthquakes Source",
+      "parameters": {
+        "path": "eq.geojson"
+      },
+      "type": "GeoJSONSource"
+    },
+    "e6a2c19b-a2e5-43ac-a746-24594d59ec80": {
+      "name": "OpenStreetMap.Mapnik",
+      "parameters": {
+        "attribution": "(C) OpenStreetMap contributors",
+        "maxZoom": 19.0,
+        "minZoom": 0.0,
+        "provider": "OpenStreetMap",
+        "url": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+        "urlParameters": {}
+      },
+      "type": "RasterSource"
+    }
+  }
+}
