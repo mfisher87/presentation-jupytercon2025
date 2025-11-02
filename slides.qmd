@@ -411,11 +411,15 @@ We **all** struggle sometimes.
 -- Brianna Pagán, Technical Program Lead @ Development Seed, ex-NASA Deputy DAAC Manager
 
 :::notes
+<!-- alex ignore fire -->
+I imagine there are many people here whose live have been affected by fire, or
+know someone who has.
+
 <!-- alex ignore her-him he-she fires -->
 Brianna, a former Deputy Manager at a NASA Data Center, lost her home in the
 recent fires in LA.
-When she learned her home was at risk, her first thought, like a true scientist
-and geospatial nerd, was to look at the data.
+When Brianna learned her home was at risk, her first thought, like a true
+scientist, was to look at the data.
 Recounting these events, she wrote:
 
 > I should be able to do this. I have a PhD in Remote Sensing, I have built satellite data
@@ -424,7 +428,7 @@ Recounting these events, she wrote:
 > that with all my experience I could not access the information I knew existed to help
 > our community.
 
-End-quote. You can read Brianna's full story by following the link at the top of the slide.
+You can read Brianna's full story by following the link at the top of the slide.
 :::
 
 
