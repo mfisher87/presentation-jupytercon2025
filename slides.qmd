@@ -822,11 +822,13 @@ If you follow the link on this slide or visit the documentation, you can find a 
 JupyterLite is a fully-browser-native version of JupyterGIS, meaning there's no server and nothing needs to be installed!
 We're jazzed to hear what you think :smile:
 
+<!-- alex ignore of-course special -->
+Of course, we'd love to work with you directly on GeoJupyter projects, with
+special interest in how you think the Jupyter technical architecture can be
+applied to make geospatial data workflows more accessible and enjoyable.
+
 We're excited to expand our **funded** development team, so if your company is
 interested in sponsoring this work, please reach out.
-We are still exploring what this will look like, and while GeoJupyter will
-always be community owned, we're ready to work with folks whose goals align
-with ours.
 
 If you have any questions, you can always reach out to me on Zulip, GitHub, or email.
 :::
