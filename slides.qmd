@@ -274,6 +274,9 @@ But that's not right at all.
 </center>
 
 :::notes
+We're joining an ongoing effort to democratize geospatial data practice, and
+bringing the unique strengths of Jupyter to this problem space.
+
 People have been succeeding for decades at advancing the democratization of
 geospatial data practice with projects and communities like QGIS, GRASS GIS,
 Pangeo, and OSGeo.
@@ -293,9 +296,6 @@ people to confidently engage with geospatial data**.
 :::
 
 :::notes
-We're not doing something new, we're joining a movement in progress and
-bringing the unique strengths of Jupyter to the problem.
-
 Our mission statement describes us as an open and community-owned...
 
 _Read the slide_
