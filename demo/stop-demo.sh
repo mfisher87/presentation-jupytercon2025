@@ -6,4 +6,4 @@ export CONTENT_DIR="$SCRIPT_DIR/content"
 
 chmod a+rw ${CONTENT_DIR}
 
-docker compose --file "${SCRIPT_DIR}/compose.yml" up --detach $@
+docker compose --file "${SCRIPT_DIR}/compose.yml" down
