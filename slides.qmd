@@ -283,19 +283,54 @@ Pangeo, and OSGeo.
 :::
 
 
+# :brain: Jupyter is more than Notebooks
+
+:::notes
+To explain what we hope to contribute to this space that already has some
+pretty great things going for it, let's pause and remember something important:
+
+_Jupyter is more than Notebooks._
+
+Jupyter is a modular and extensible architecture for interactive computing with
+powerful, reusable building blocks.
+
+For example, the `jupyter-collaboration` extension enables users to collaborate
+on Notebooks in real time like Google Docs.
+:::
+
+
+---
+
+![[JupyterCAD](https://github.com/jupytercad/JupyterCAD) by QuantStack](/assets/images/jupytercad.gif)
+
+:::notes
+The same `jupyter-collaboration` extension provides the foundation for a
+collaborative computer aided design experience in JupyterCAD by QuantStack.
+
+Here we can see 3 users collaborating on a part in 3 separate interfaces:
+One in a Notebook widget, one in standard JupyterLab, and one in a custom
+application user interface built specifically for JupyterCAD.
+
+All 3 interfaces are made from the same building blocks.
+:::
+
+
+
 ## :question: What is GeoJupyter?
 
 :::elevator-pitch
 <hr />
 
 GeoJupyter is an open and community-owned effort to [reimagine geospatial
-interactive computing experiences in Jupyter]{.jupyter-orange} to enable **more
-people to confidently engage with geospatial data**.
+interactive computing experiences _within the Jupyter architecture_]{.jupyter-orange}
+to enable more people to confidently engage with geospatial data.
 
 <hr />
 :::
 
 :::notes
+Back to "what is GeoJupyter":
+
 Our mission statement describes us as an open and community-owned...
 
 _Read the slide_
@@ -307,6 +342,8 @@ by working with you.
 
 What does it look like to **you** to **enable more people to confidently engage
 with geospatial data**?
+
+How can the Jupyter architecture help?
 :::
 
 
@@ -783,6 +820,18 @@ _Collaborative demo:_
 {{< video /assets/video/jgis-demo.mp4 >}}
 
 
+# :brain: Jupyter is more than Notebooks
+
+:::notes
+<!-- alex ignore just -->
+You just saw some new ideas about how Jupyter's architecture can be applied to the geospatial domain.
+
+We want you to think about this -- where can the power of Jupyter's modular and
+reusable architecture enable new and innovating workflows in your domain of
+interest?
+:::
+
+
 ---
 
 :::{.center-content}
@@ -824,8 +873,8 @@ We're jazzed to hear what you think :smile:
 
 <!-- alex ignore of-course special -->
 Of course, we'd love to work with you directly on GeoJupyter projects, with
-special interest in how you think the Jupyter technical architecture can be
-applied to make geospatial data workflows more accessible and enjoyable.
+special interest in how you think Jupyter's modular and reusable architecture
+can be applied to make geospatial data workflows more accessible and enjoyable.
 
 We're excited to expand our **funded** development team, so if your company is
 interested in sponsoring this work, please reach out.
