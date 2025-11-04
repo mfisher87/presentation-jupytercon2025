@@ -704,114 +704,69 @@ _Read the slide_
 
 :test_tube: Lab: <http://localhost:8888>
 
+:confounded: No wifi? `uv run --with jupytergis jupyter lab`
+
 :::notes
 _Open in private window:_
-<http://34.71.209.73:8888/>
+<http://34.169.86.39:8888/>
 
-First, let's look at "The GIS Bounce" we talked about earlier.
+**Matt Solo:**
 
-* _Open `explore.jgis`._
-  * This notebook explores a dataset about the discrimatory US government
-    practice of "redlining" from the 1930s-1960s.
-    Redlining was a practice of grading neighborhoods to financially exclude
-    people on the basis of race.
-* _Run the notebook cell by cell, except the final cell_
-  * We've got some data and we want to validate it before continuing our analysis..
-  * Calling `.plot()` doesn't get us very far; it would be challenging to verify the data is properly geolocated without a basemap.
-  * We would need to write more code to inspect the features' attributes.
-  * That's where the `explore()` function we discussed comes in!
-  * With only one line of code, excluding imports, we can interact with this data much like we would in QGIS.
-* _Run final cell. Right click the "New Haven" layer, zoom to it._
-  * The geolocation looks good.
-  * Let's inspect the features and be sure those look the way we expect, too.
-  <!-- alex ignore white -->
-  * We can see that this neighborhood was ranked "A" ("best") because it was
-    mostly white, meaning that home loans were more readily available,
-    leading to generational harm.
-  * Now that we've explored our data, we can go back to our example analysis and
-    continue.
-    We could close this panel and re-open it again later.
-  * Or, because this visualizer is in a JupyterLab window, we can move it
-    around and scale it however we like, leaving it available for more
-    visualization later.
-* _Move the window to a bottom pane and scale it way down._
+* _Open `notebook.ipynb`_
+  * This Notebook shows how we can use JupyterGIS programmatically from its Python API
+  * _Run one cell at a time_
+  * We can create a new project from code and view it in a Notebook widget or in a new panel.
 
-Let's explore some example JupyterGIS projects.
-
-* _Open `france_hiking.jGIS` from JupyterLab file explorer._
+* _Open `france_hiking.jgis` from the examples dir_
   * This example JupyterGIS project file and many more are distributed with
     JupyterGIS, and you can check it out in your browser with JupyterLite from
     the "Try it now!" link in our README and docs.
   * This map shows hiking trails in France.
   * It's a bit noisy right now, so let's get rid of this MODIS layer.
-* _Right click NAGAGIBS layer, remove._
-  * Let's add a layer that shows where Strava users are running.
-* _Open the layer browser._
-  * Our layer browser has a bunch of pre-defined layers you can add to your map
-* _Add "Strava.Run"._
+	* _Hide MODIS layer_
+
+* JupyterGIS comes with a layer browser that enables graphical selection from a collection of pre-curated layers
+	* Let's add a layer that shows where Strava users are running
+	* _Add a layer from the layer browser: `strava.run`_
   * The hiking layer is a bit hard to read now, though, so let's change the layer order.
-* _Move "Strava.Run" underneath "Waymarked"._
-  * Still a bit hard to read, let's change the opacity.
-* _Set opacity of "Waymarked" to 1._
-  * That's better!
+	* _Move "Strava.Run" underneath "Waymarked"._
+		* Still a bit hard to read, let's change the opacity.
+	* _Set opacity of "Waymarked" to 1._
+		* That's better!
 
-Let's change it up and look at some earthquakes data.
+* I was playing around with the San Diego public data portal and found a couple of interesting layers I want to explore.
+	* _Add Unexploded_
+  * You may notice that this interface looks similar to the JupyterLab file browser that normally shows up in the left panel, that’s because it is the same interface\! Remember Jupyter’s modular and reusable architecture!
 
-<!-- alex ignore color -->
-* _Open `earthquakes.jgis`._
-* _Activate the identify tool._
-  * We have an "identify" tool that enables you to view attributes of these features.
-* _Select a feature._
-  * We can see the earthquake's magnitude and timestamp.
-    It'd be nice to visualize this on the map.
-* _Open symbology for earthquakes._
-  * Let's set the symbology to "graduated" and select the attribute we want to symbologize on :smile:
-  * We want to use color to represent the magnitude, and use a quantile scale.
-* _Click "classify"._
-  * Beautiful.
-  * Now, I want to view this data over time.
-* _Open the time slider._
-  * Let's select the correct time attribute and set a time step of "daily".
-* _Scrub with slider._
-  * And let's animate it at 10 FPS.
-* _Select 10FPS, press play._
-  * Someone mentioned the other day that it would be cool to persist the past
-    points when animating to see accumulation.
-    Love that idea, and we have an open issue in GitHub where you can follow along.
+	* _Identify a feature_
+	* _Set up a “Scary” single symbol symbology_
 
-_Collaborative demo:_
+* Let's look at an earthquakes dataset now
+	* _Add eq.json_
+	* _Identify a feature_
+	* _Graduated symbology_
+	* _Time slider_
 
-* Nick: _Join collaborative session on earthquakes.jGIS_
-* Nick: _Add `WaymarkedTrails.Slopes` layer_
-* Nick: _Disable the earthquakes layer_
-* Nick: _Add an annotation at the base of a trail "Let's meet here at **Aerial Tram** on Friday"_
-* Matt: Looks someone's trying to collaborate with me! Who could that be? :thinking:
-* Nick: _Raise hand!_
-<!-- alex ignore he-she -->
-* Matt: That's Nick Gondek, my co-worker.
-  Looks like he's having trouble focusing on my talk and looking forward to
-  some skiing :)
-* Matt: Nick is shown here as a collaborator on this JupyterGIS project.
-* Matt: _Follow Nick_.
-* Matt: I'm using the "Follow" feature to see what Nick is doing.
-* Matt: I see Nick has added an "Annotation", our name for a geospatial
-  conversation in JGIS.
-* Matt: _Respond to annotation: "Sounds awesome! Meet you there."_
-* Nick: _Add another annotation for a run from the top of **Aerial Tram**, let's
-  take **Chip's run** down to the hotel._
-* Matt: _Respond to annotation: Siiick!_
-* Matt: I think we're done planning our post-conference recreation, I guess
-  let's finish up this talk :laughing:
+* **Animate with “play button” (Fernando’s cue to go)**
+
+**Fernando joins:**
+
+* Fernando adds the “Points of interest” layer
+* Matt notices the addition
+* Zoom to layer
+* Follow Fernando
+* Fernando adds an annotation to the point of interest that looks good for lunch
+* Matt responds “looks like a great spot!”
+* Fernando Route layer to the map
 
 :warning: **If something goes wrong** :warning:
 
 * That's what I get for doing a live demo.
-<!-- alex ignore fire -->
-* I knew a live demo with collaborators was playing with fire.
-  I've flown too close to the sun, sorry for my hubris :laughing:
+* I've flown too close to the sun, sorry for my hubris :laughing:
 <!-- alex ignore just -->
 * _Open browser debug tools_. **Hold on, I can fix this!!** Just kidding, let's move on :smile:
-* Come talk to me later and I'll tell you or show you more :smile:
+
+Come talk to me later and I'll tell you or show you more :smile:
 :::
 
 
