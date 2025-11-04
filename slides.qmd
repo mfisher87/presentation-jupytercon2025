@@ -106,8 +106,10 @@ Note that tears for use in case of software crashes are not included, you must p
 And these are the kinds of problems geospatial data professionals using proprietary software enjoy.
 
 It's really hard to read, but it says "Error 99999: Something unexpected caused the tool to fail. Contact technical support".
-The message also helpfully suggests referring to the error help, as if that meaningless error is searchable.
+
+(Please forgive me, Esri friends)
 :::
+
 
 ---
 
@@ -116,7 +118,7 @@ The message also helpfully suggests referring to the error help, as if that mean
 :::
 
 :::notes
-So all the open source folks in the audience are probably thinking "we can do better".
+So all the open source folks here are probably thinking "we can do better".
 And we can, and we have, with amazing projects like QGIS and Pangeo.
 
 But also... this is the first web result I get when I search for "Python geospatial
@@ -815,6 +817,7 @@ If you're wondering, "how can I be part of this awesome community", here are a f
 :::notes
 If you can only do one thing, join us on the Jupyter Zulip, which is like an
 open-source Slack.
+There's a GeoJupyter channel there!
 You don't even need to register an account to view activity, but we would love
 it if you joined in :smile:
 So many cool people are there, I promise you'll fit right in ;)
