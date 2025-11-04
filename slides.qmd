@@ -60,11 +60,15 @@ def why_geojupyter(active: int | None = None) -> str:
 
 :::notes
 Let's talk about how hard it can be for geospatial data practitioners, whether
-that's researchers, data scientists, data analysts, data artists, or data
+that's researchers, data scientists, analysts, artists, or
 engineers, to adapt to working with their data in an programming paradigm using
 open source libraries instead of proprietary software.
 
-This is becoming a more and more necessary part of the job.
+There are a lot of people in this picture: proprietary software has a strong
+hold over government, education, and industry.
+
+Moving towards a programming paradigm is becoming a more and more necessary
+part of the job.
 But it's still very hard.
 :::
 
