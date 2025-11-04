@@ -112,7 +112,7 @@ The message also helpfully suggests referring to the error help, as if that mean
 ---
 
 :::{.center-content}
-![](/assets/images/37-geospatial-python-packages-you-definitely-need.png){.r-stretch width="1400px"}
+![](/assets/images/37-geospatial-python-packages-you-definitely-need.png){.r-stretch width="1200px"}
 :::
 
 :::notes
