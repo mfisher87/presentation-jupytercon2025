@@ -713,11 +713,16 @@ _Open in private window:_
 **Matt Solo:**
 
 * _Open `notebook.ipynb`_
-  * This Notebook shows how we can use JupyterGIS programmatically from its Python API
+  * First let's look at the basic GeoJSON extension's ability to view geospatial data in JupyterLab.
+    There are lots of other ways to do this too.
   * _Run one cell at a time_
-  * We can create a new project from code and view it in a Notebook widget or in a new panel.
+  * If we use JupyterGIS, we can programmatically start a new GIS project from
+    its Python API, add a basemap, and add some GeoJSON data from a file.
+  <!-- alex ignore just -->
+  * We can view the project we just created in Notebook widget or in a new panel.
 
-* _Open `france_hiking.jgis` from the examples dir_
+* Let's play with a premade GIS project.
+  * _Open `france_hiking.jgis` from the examples dir_
   * This example JupyterGIS project file and many more are distributed with
     JupyterGIS, and you can check it out in your browser with JupyterLite from
     the "Try it now!" link in our README and docs.
