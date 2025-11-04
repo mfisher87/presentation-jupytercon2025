@@ -704,7 +704,7 @@ _Read the slide_
 
 :test_tube: Lab: <http://localhost:8888>
 
-:confounded: No wifi? `uv run --with jupytergis jupyter lab`
+:confounded: No wifi? `uv run --with jupytergis --with jupyterlab-geojson jupyter lab`
 
 :::notes
 _Open in private window:_
