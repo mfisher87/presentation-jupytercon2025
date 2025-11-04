@@ -511,7 +511,7 @@ We heard this so often that we gave it a name: "The GIS Bounce".
 :::
 
 
-## :woman_dancing: _The GIS Bounce_ :man_dancing: (hard mode)
+## :woman_dancing: _The GIS Bounce_ :man_dancing: (hard mode) {.smaller}
 
 ::::::columns
 :::{.column width=65%}
@@ -551,7 +551,7 @@ seamless, joyful, and rewarding.
 
 
 <!-- alex ignore easy -->
-## :woman_dancing: _The GIS Bounce_ :man_dancing: (easy mode)
+## :woman_dancing: _The GIS Bounce_ :man_dancing: (easy mode) {.smaller}
 
 ::::::columns
 :::{.column width=65%}
