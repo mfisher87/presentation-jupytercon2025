@@ -1,10 +1,10 @@
+:left_speech_bubble: [Chat with us on the Jupyter Zulip](https://jupyter.zulipchat.com/#narrow/channel/471314-geojupyter)!
+
 :runner: Community sprint on Thursday!
 
 :studio_microphone: [Sign up for an interview](https://geojupyter.org/interviews/sign-up)!
 
 :calendar: [Join a hackathon or community meeting](https://geojupyter.org/calendar)!
-
-:left_speech_bubble: [Chat with us on the Jupyter Zulip](https://jupyter.zulipchat.com/#narrow/channel/471314-geojupyter)!
 
 :test_tube: [Try JupyterGIS](https://jupytergis.readthedocs.io/)! Where does it meet your needs (or not)?
 

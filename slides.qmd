@@ -852,6 +852,12 @@ If you're wondering, "how can I be part of this awesome community", here are a f
 {{< include how-you-can-join.md >}}
 
 :::notes
+If you can only do one thing, join us on the Jupyter Zulip, which is like an
+open-source Slack.
+You don't even need to register an account to view activity, but we would love
+it if you joined in :smile:
+So many cool people are there, I promise you'll fit right in ;)
+
 In the short-term, we're going to be participating in the community sprints on
 Thursday and I'd love to see you there!
 
@@ -861,10 +867,6 @@ We'd love to talk to you about your needs, frustrations, and opinions in an inte
 
 It would be amazing to see you at one of our bi-weekly hackathons or monthly community meetings!
 You can view our community calendar on `geojupyter.org` or by following the link on this slide.
-
-We're on the Jupyter Zulip, which is like an open-source Slack.
-You don't even need to register an account to view activity, but we would love
-it if you joined in :smile:
 
 JupyterGIS is available for install with `pip`, `conda`, or equivalents.
 If you follow the link on this slide or visit the documentation, you can find a link to try JupyterGIS with JupyterLite.
