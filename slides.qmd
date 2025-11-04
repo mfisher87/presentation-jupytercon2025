@@ -669,7 +669,8 @@ This is why we are building a community, not just software.
 :::notes
 Let's talk about some of our work in progress now!
 
-JupyterGIS is the _GeoJupyter_ flagship project, with development led by the amazing folks at QuantStack.
+JupyterGIS is the _GeoJupyter_ flagship project, with development led by the amazing folks at QuantStack, some of whom are here.
+And you should meet them!
 :::
 
 
