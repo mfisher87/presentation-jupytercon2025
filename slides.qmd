@@ -64,7 +64,7 @@ that's researchers, data scientists, data analysts, data artists, or data
 engineers, to adapt to working with their data in an programming paradigm using
 open source libraries instead of proprietary software.
 
-I think it's widely accepted that this is becoming a more and more necessary part of the job.
+This is becoming a more and more necessary part of the job.
 But it's still very hard.
 :::
 
