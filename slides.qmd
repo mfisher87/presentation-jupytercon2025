@@ -374,6 +374,7 @@ We build and design in close partnership with users.
 
 We believe in open source and open science, so everything we do is free and
 open.
+Open source is the best.
 
 And it's important to us to create tools that unify the strengths of current
 tools and workflows.
