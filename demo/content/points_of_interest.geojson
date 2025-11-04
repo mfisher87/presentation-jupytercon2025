@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rental pickup"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.24007908782443,
+          32.774877693808605
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Clara Point Community Park"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.24881668331815,
+          32.783833422146
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fanuel Street Park"
+      },
+      "geometry": {
+        "coordinates": [
+          -117.24462790774137,
+          32.79124517149543
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    }
+  ]
+}
