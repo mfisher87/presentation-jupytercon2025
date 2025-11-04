@@ -850,6 +850,10 @@ We're excited to expand our **funded** development team, so if your company is
 interested in sponsoring this work, please reach out.
 
 If you have any questions, you can always reach out to me on Zulip, GitHub, or email.
+
+If you're going to the AGU conference in December, we'll be there too running a
+workshop and session titled "Open Geospatial Workflows in the Cloud", hope to
+see you there :)
 :::
 
 
@@ -858,7 +862,7 @@ If you have any questions, you can always reach out to me on Zulip, GitHub, or e
 {{< include logos.md >}}
 
 :::notes
-First, I'd like the thank everyone involved in this community effort.
+I want to thank everyone involved in this community effort.
 **So many** people and organizations are working together to make cool stuff happen!
 
 <!-- alex ignore special -->
@@ -878,7 +882,7 @@ One last big thank you to the amazing role models and mentors in these
 communities who have inspired me to be a better community manager and
 developer.
 
-On that note, I want to give a quick plug for Yuvi Panda's lightning talk at SciPy this year:
+I want to give a quick plug for Yuvi Panda's lightning talk at SciPy this year:
 _You don't need to contribute more to open source, you need to go to therapy_.
 
 Click the link on this slide to watch!
@@ -890,7 +894,7 @@ Click the link on this slide to watch!
 ![[https://mfisher87.github.io/presentation-jupytercon2025](https://mfisher87.github.io/presentation-jupytercon2025)](/assets/images/qr.svg){width=100%}
 
 :::notes
-Thanks for your time and attention, and I hope to see you around :smile:
+Thanks for your time and attention! And I hope to see you around :smile:
 :::
 
 
