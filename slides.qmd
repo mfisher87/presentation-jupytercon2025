@@ -76,7 +76,7 @@ But it's still very hard.
 ---
 
 :::{.center-content}
-![[xkcd.com/2577/](https://xkcd.com/2577/)](https://imgs.xkcd.com/comics/sea_chase.png){.r-stretch width="1200px"}
+![[xkcd.com/2577/](https://xkcd.com/2577/)](/assets/images/xkcd2577.png){.r-stretch width="1200px"}
 :::
 
 :::notes
@@ -701,7 +701,7 @@ _Read the slide_
 
 ---
 
-![A screenshot of JupyterGIS](https://github.com/geojupyter/jupytergis/raw/main/jupytergis.png)
+![A screenshot of JupyterGIS](/assets/images/jupytergis.png)
 
 
 ## Demo
