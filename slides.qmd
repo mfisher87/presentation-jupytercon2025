@@ -566,7 +566,7 @@ from ... import explore
 
 explore(
   my_xarray_dataarray,
-  {my_geodataframe, symbology="choropleth"},
+  {'data': my_geodataframe, 'symbology': 'choropleth'},
 )
 ```
 
